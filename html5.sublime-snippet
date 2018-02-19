@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta name="description" content="New project">
+	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+	<meta name="author" content="Ved">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" href="/" sizes="180x180">
+    <link rel="icon" href="/" sizes="32x32" type="image/png">
+    <link rel="icon" href="/" sizes="16x16" type="image/png">
+
+    <!-- CSS styles -->
+    <link rel="stylesheet" href="/" crossorigin="anonymous">
+
+    <title>New project</title>
+  </head>
+  <body>
+  	<header>
+    	<h1>New project</h1>
+    </header>
+    <footer>
+    	
+    </footer>
+    <!-- Optional JavaScript -->
+    <script src="/" crossorigin="anonymous"></script>
+  </body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
